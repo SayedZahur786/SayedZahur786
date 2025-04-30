@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SayedZahur786<br>🔭 I'm currently building Celestra Dynamics<br>👀 I’m interested in Web development, Computer programming and finance applications<br>🌱 I’m currently learning computer science in Scaler School of Technology<br>📫 How to reach me: just drop me a mail at syedzahurulhasan04@gmail.com<br>😄 Pronouns: He/Him<br><br>
+👋 Hi, I’m @SayedZahur786<br>🔭 I'm currently building Celestra Dynamics<br>👀 I’m interested in Generative AI Application,SaaS and Custom MCPs<br>🌱 I’m currently learning computer science in Scaler School of Technology<br>📫 How to reach me: just drop me a mail at syedzahurulhasan04@gmail.com<br>😄 Pronouns: He/Him<br><br>
 
 
 ## 🌐 Socials:
@@ -22,4 +22,4 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohdJahur) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
