@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @SayedZahur786<br>🔭 I'm currently building Celestra Dynamics<br>👀 I’m interested in Generative AI Applications, SaaS and Custom MCPs<br>🌱 I’m currently learning computer science in Scaler School of Technology<br>📫 How to reach me: just drop me a mail at syedzahurulhasan04@gmail.com<br>😄 Pronouns: He/Him<br><br>
+👋 Hi, I’m @SayedZahur786<br>🔭 I'm currently building Varia AI<br>👀 I’m interested in Generative AI Applications, SaaS and Custom MCPs<br>🌱 I’m currently learning computer science in Scaler School of Technology<br>📫 How to reach me: just drop me a mail at syedzahurulhasan04@gmail.com<br>😄 Pronouns: He/Him<br><br>
 
 
 ## 🌐 Socials:
